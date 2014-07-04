@@ -1,0 +1,17 @@
+ru:
+  bulk_time_entry_title: Списание
+  add_issue: Добавить задачу
+  label_bulk_time_entries: Массовое списание времени
+  label_bulk_time_add_another: Добавить другую
+  text_bulk_time_entry_permission: У вас нет прав для списание времени по любым проектам
+  text_time_added_to_project: "%{hours} ч. добавлено в проект %{project}"
+  label_select_issue_first: Выберите задачу, затем нажмите на эту иконку, чтобы открыть её в новом окне
+  label_only_my_issues: Показывать только мои задачи
+  label_no_closed_issues: Не показывать закрытые задачи
+  label_select_issue_by_nr: "Выбор задачи #"
+  button_save_this_entry: Сохранить эту запись
+  button_save_this_entry_and_add_new: Сохранить эту запись и добавить новую
+  button_start_timer: Запустить таймер
+  button_stop_timer: Остановить таймер
+  button_save_all_entries: Сохранить все записи
+  time_entry_title: Ваши списания времени за сегодня
